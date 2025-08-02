@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <PhysicalMaterials>
+
+        <PhysicalMaterial>
+            <Id>
+                <TypeId>PhysicalMaterialDefinition</TypeId>
+                <SubtypeId>KJN_KWP_AerialBomb</SubtypeId>
+            </Id>
+        </PhysicalMaterial>
+
+        <PhysicalMaterial>
+            <Id>
+                <TypeId>PhysicalMaterialDefinition</TypeId>
+                <SubtypeId>KJN_KWP_100lb_Material</SubtypeId>
+            </Id>
+        </PhysicalMaterial>
+
+        <PhysicalMaterial>
+            <Id>
+                <TypeId>PhysicalMaterialDefinition</TypeId>
+                <SubtypeId>KJN_KWP_250lb_Material</SubtypeId>
+            </Id>
+        </PhysicalMaterial>
+
+        <PhysicalMaterial>
+            <Id>
+                <TypeId>PhysicalMaterialDefinition</TypeId>
+                <SubtypeId>KJN_KWP_500lb_Material</SubtypeId>
+            </Id>
+        </PhysicalMaterial>
+
+        <PhysicalMaterial>
+            <Id>
+                <TypeId>PhysicalMaterialDefinition</TypeId>
+                <SubtypeId>KJN_KWP_1000lb_Material</SubtypeId>
+            </Id>
+        </PhysicalMaterial>
+
+         <PhysicalMaterial>
+            <Id>
+                <TypeId>PhysicalMaterialDefinition</TypeId>
+                <SubtypeId>KJN_KWP_2000lb_Material</SubtypeId>
+            </Id>
+        </PhysicalMaterial>
+
+    </PhysicalMaterials>
+</Definitions>

@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <BlueprintClassEntries>
+
+        <!-- BOMB MAGAZINE -->
+        <Entry Class="Consumables" BlueprintSubtypeId="KJN_KWP_BMB_an_m30A1_100lb_magazine" />
+        <Entry Class="Consumables" BlueprintSubtypeId="KJN_KWP_BMB_an_m57A1_250lb_magazine" />
+        <Entry Class="Consumables" BlueprintSubtypeId="KJN_KWP_BMB_an_m64A1_500lb_magazine" />
+        <Entry Class="Consumables" BlueprintSubtypeId="KJN_KWP_BMB_an_m65A1_1000lb_magazine" />
+        <Entry Class="Consumables" BlueprintSubtypeId="KJN_KWP_BMB_an_m66A1_2000lb_magazine" />
+        <Entry Class="Consumables" BlueprintSubtypeId="KJN_KWP_BMB_pc1000_1000kg_magazine" />
+        <Entry Class="Consumables" BlueprintSubtypeId="KJN_KWP_BMB_pc1600_1600kg_magazine" />
+
+        <Entry Class="EliteConsumables" BlueprintSubtypeId="KJN_KWP_BMB_an_m30A1_100lb_magazine" />
+        <Entry Class="EliteConsumables" BlueprintSubtypeId="KJN_KWP_BMB_an_m57A1_250lb_magazine" />
+        <Entry Class="EliteConsumables" BlueprintSubtypeId="KJN_KWP_BMB_an_m64A1_500lb_magazine" />
+        <Entry Class="EliteConsumables" BlueprintSubtypeId="KJN_KWP_BMB_an_m65A1_1000lb_magazine" />
+        <Entry Class="EliteConsumables" BlueprintSubtypeId="KJN_KWP_BMB_an_m66A1_2000lb_magazine" />
+        <Entry Class="EliteConsumables" BlueprintSubtypeId="KJN_KWP_BMB_pc1000_1000kg_magazine" />
+        <Entry Class="EliteConsumables" BlueprintSubtypeId="KJN_KWP_BMB_pc1600_1600kg_magazine" />
+
+        <Entry Class="Ammo" BlueprintSubtypeId="KJN_KWP_BMB_an_m30A1_100lb_magazine" />
+        <Entry Class="Ammo" BlueprintSubtypeId="KJN_KWP_BMB_an_m57A1_250lb_magazine" />
+        <Entry Class="Ammo" BlueprintSubtypeId="KJN_KWP_BMB_an_m64A1_500lb_magazine" />
+        <Entry Class="Ammo" BlueprintSubtypeId="KJN_KWP_BMB_an_m65A1_1000lb_magazine" />
+        <Entry Class="Ammo" BlueprintSubtypeId="KJN_KWP_BMB_an_m66A1_2000lb_magazine" />
+        <Entry Class="Ammo" BlueprintSubtypeId="KJN_KWP_BMB_pc1000_1000kg_magazine" />
+        <Entry Class="Ammo" BlueprintSubtypeId="KJN_KWP_BMB_pc1600_1600kg_magazine" />
+
+        <!-- BOMB MOUNT -->
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="SmallMissileLauncher/KJN_KWP_BMB_an_m30A1_100lb_block" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="SmallMissileLauncher/KJN_KWP_BMB_an_m57A1_250lb_block" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="SmallMissileLauncher/KJN_KWP_BMB_an_m64A1_500lb_block" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="SmallMissileLauncher/KJN_KWP_BMB_an_m65A1_1000lb_block" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="SmallMissileLauncher/KJN_KWP_BMB_an_m66A1_2000lb_block" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="SmallMissileLauncher/KJN_KWP_BMB_pc1000_1000kg_block" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="SmallMissileLauncher/KJN_KWP_BMB_pc1600_1600kg_block" />
+
+    </BlueprintClassEntries>
+</Definitions>

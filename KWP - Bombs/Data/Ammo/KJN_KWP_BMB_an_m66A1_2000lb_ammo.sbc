@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Ammos>
+
+        <Ammo xsi:type="MyObjectBuilder_MissileAmmoDefinition">
+            <Id>
+                <TypeId>AmmoDefinition</TypeId>
+                <SubtypeId>KJN_KWP_BMB_an_m66A1_2000lb_ammo</SubtypeId>
+            </Id>
+            <BasicProperties>
+                <DesiredSpeed>999</DesiredSpeed>
+                <SpeedVariance>0</SpeedVariance>
+                <MaxTrajectory>20000</MaxTrajectory>
+                <IsExplosive>true</IsExplosive>
+                <BackkickForce>0</BackkickForce>
+                <PhysicalMaterial>KJN_KWP_2000lb_Material</PhysicalMaterial>
+                <ExplosiveDamageMultiplier>1.2</ExplosiveDamageMultiplier>
+                <DeathMessage>CauseOfDeath_HeavyWeapons</DeathMessage>
+            </BasicProperties>
+            <MissileProperties>
+                <MissileMass>996.3</MissileMass>
+                <MissileExplosionRadius>13.5</MissileExplosionRadius>
+                <MissileExplosionDamage>115500</MissileExplosionDamage>
+                <MissileModelName>Models\Cubes\small\KJN_KWP_BMB_an_m66A1_2000lb_ammo.mwm</MissileModelName>
+                <MissileAcceleration>0</MissileAcceleration>
+                <MissileInitialSpeed>0</MissileInitialSpeed>
+                <MissileSkipAcceleration>false</MissileSkipAcceleration>
+                <MissileHealthPool>2600</MissileHealthPool>
+                <MissileTrailEffect></MissileTrailEffect>
+                <MissileGravityEnabled>true</MissileGravityEnabled>
+            </MissileProperties>
+        </Ammo>
+
+    </Ammos>
+</Definitions>

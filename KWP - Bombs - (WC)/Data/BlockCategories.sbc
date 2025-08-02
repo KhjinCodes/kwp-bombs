@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <CategoryClasses>
+
+		<Category xsi:type="MyObjectBuilder_GuiBlockCategoryDefinition">
+			<Id>
+				<TypeId>GuiBlockCategoryDefinition</TypeId>
+				<SubtypeId/>
+			</Id>
+            <DisplayName>Khjin's Warfare Packs</DisplayName>
+            <Name>KJN_KWP_All</Name>
+            <StrictSearch>true</StrictSearch>
+			<ItemIds>
+
+                <!-- Bombs -->
+                <string>ConveyorSorter/KJN_KWP_BMB_an_m30A1_100lb_block</string>
+                <string>ConveyorSorter/KJN_KWP_BMB_an_m57A1_250lb_block</string>
+                <string>ConveyorSorter/KJN_KWP_BMB_an_m64A1_500lb_block</string>
+                <string>ConveyorSorter/KJN_KWP_BMB_an_m65A1_1000lb_block</string>
+                <string>ConveyorSorter/KJN_KWP_BMB_an_m66A1_2000lb_block</string>
+				<string>ConveyorSorter/KJN_KWP_BMB_pc1000_1000kg_block</string>
+				<string>ConveyorSorter/KJN_KWP_BMB_pc1600_1600kg_block</string>
+			
+            </ItemIds>
+
+		</Category>
+
+		<Category xsi:type="MyObjectBuilder_GuiBlockCategoryDefinition">
+			<Id>
+				<TypeId>GuiBlockCategoryDefinition</TypeId>
+				<SubtypeId/>
+			</Id>
+            <DisplayName>   Suspended Ordinance</DisplayName>
+            <Name>KJN_KWP_SuspendedOrdinance</Name>
+
+			<ItemIds>
+
+                <!-- Bombs -->
+                <string>ConveyorSorter/KJN_KWP_BMB_an_m30A1_100lb_block</string>
+                <string>ConveyorSorter/KJN_KWP_BMB_an_m57A1_250lb_block</string>
+                <string>ConveyorSorter/KJN_KWP_BMB_an_m64A1_500lb_block</string>
+                <string>ConveyorSorter/KJN_KWP_BMB_an_m65A1_1000lb_block</string>
+                <string>ConveyorSorter/KJN_KWP_BMB_an_m66A1_2000lb_block</string>
+				<string>ConveyorSorter/KJN_KWP_BMB_pc1000_1000kg_block</string>
+				<string>ConveyorSorter/KJN_KWP_BMB_pc1600_1600kg_block</string>
+			
+            </ItemIds>
+
+		</Category>
+
+		<Category xsi:type="MyObjectBuilder_GuiBlockCategoryDefinition">
+			<Id>
+				<TypeId>GuiBlockCategoryDefinition</TypeId>
+				<SubtypeId/>
+			</Id>
+			<DisplayName>DisplayName_Category_ShipWeapons</DisplayName>
+			<Name>ShipWeapons</Name>
+			<SearchBlocks>false</SearchBlocks>
+			<IsShipCategory>true</IsShipCategory>
+			<IsBlockCategory>false</IsBlockCategory>
+			<IsToolCategory>true</IsToolCategory>
+
+			<ItemIds>
+
+                <string>KJN_KWP_BMB_an_m30A1_100lb_block</string>
+                <string>KJN_KWP_BMB_an_m57A1_250lb_block</string>
+                <string>KJN_KWP_BMB_an_m64A1_500lb_block</string>
+                <string>KJN_KWP_BMB_an_m65A1_1000lb_block</string>
+                <string>KJN_KWP_BMB_an_m66A1_2000lb_block</string>
+				<string>KJN_KWP_BMB_pc1000_1000kg_block</string>
+				<string>KJN_KWP_BMB_pc1600_1600kg_block</string>
+
+			</ItemIds>
+
+		</Category>
+
+    </CategoryClasses>
+</Definitions>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KWP - Bombs", "KWP - Bombs.csproj", "{03A0B5DD-FB75-410A-99D9-EB522F4E9D79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03A0B5DD-FB75-410A-99D9-EB522F4E9D79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03A0B5DD-FB75-410A-99D9-EB522F4E9D79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03A0B5DD-FB75-410A-99D9-EB522F4E9D79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03A0B5DD-FB75-410A-99D9-EB522F4E9D79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1289DDA-4EE1-47F0-A73F-8C52C1DF8AA9}
+	EndGlobalSection
+EndGlobal

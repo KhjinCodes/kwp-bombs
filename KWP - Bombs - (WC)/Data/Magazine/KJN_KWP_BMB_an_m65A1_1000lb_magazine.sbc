@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <AmmoMagazines>
+
+        <AmmoMagazine>
+            <Id>
+                <TypeId>AmmoMagazine</TypeId>
+                <SubtypeId>KJN_KWP_BMB_an_m65A1_1000lb_magazine</SubtypeId>
+            </Id>
+            <DisplayName>KWP AN-M65A1 1000 lb G.P. Bomb</DisplayName>
+            <Icon>Textures\GUI\Icons\Cubes\KJN_KWP_BMB_an_m65A1_1000lb_ammo.dds</Icon>
+            <Size>
+                <X>0.24</X>
+                <Y>0.2</Y>
+                <Z>0.2</Z>
+            </Size>
+            <Mass>546.5</Mass>
+            <Volume>289.11</Volume>
+            <Model>Models\Cubes\small\KJN_KWP_BMB_an_m65A1_1000lb_ammo.mwm</Model>
+            <PhysicalMaterial>Ammo</PhysicalMaterial>
+            <Capacity>1</Capacity>
+            <AmmoDefinitionId Subtype="KJN_KWP_BMB_an_m65A1_1000lb_ammo" />
+
+            <MinimumOfferAmount>1</MinimumOfferAmount>
+            <MaximumOfferAmount>1</MaximumOfferAmount>
+            <MinimumOrderAmount>1</MinimumOrderAmount>
+            <MaximumOrderAmount>100</MaximumOrderAmount>
+            <CanPlayerOrder>true</CanPlayerOrder>
+        </AmmoMagazine>
+
+    </AmmoMagazines>
+</Definitions>

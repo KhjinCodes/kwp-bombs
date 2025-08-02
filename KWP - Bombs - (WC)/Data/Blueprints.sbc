@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Blueprints>
+
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>KJN_KWP_BMB_an_m30A1_100lb_magazine</SubtypeId>
+            </Id>
+            <DisplayName>KWP AN-M30A1 100 lb G.P. Bomb</DisplayName>
+            <Icon>Textures\GUI\Icons\Cubes\KJN_KWP_BMB_an_m30A1_100lb_ammo.dds</Icon>
+            <Prerequisites>
+                <Item Amount="55" TypeId="Ingot" SubtypeId="Iron" />
+                <Item Amount="7" TypeId="Ingot" SubtypeId="Nickel" />
+                <Item Amount="0.2" TypeId="Ingot" SubtypeId="Silicon" />
+                <Item Amount="0.5" TypeId="Ingot" SubtypeId="Cobalt" />
+                <Item Amount="1.2" TypeId="Ingot" SubtypeId="Magnesium" />
+            </Prerequisites>
+            <Result Amount="1" TypeId="AmmoMagazine" SubtypeId="KJN_KWP_BMB_an_m30A1_100lb_magazine" />
+            <BaseProductionTimeInSeconds>10</BaseProductionTimeInSeconds>
+        </Blueprint>
+
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>KJN_KWP_BMB_an_m57A1_250lb_magazine</SubtypeId>
+            </Id>
+            <DisplayName>KWP AN-M57A1 250 lb G.P. Bomb</DisplayName>
+            <Icon>Textures\GUI\Icons\Cubes\KJN_KWP_BMB_an_m57A1_250lb_ammo.dds</Icon>
+            <Prerequisites>
+                <Item Amount="137.5" TypeId="Ingot" SubtypeId="Iron" />
+                <Item Amount="17.5" TypeId="Ingot" SubtypeId="Nickel" />
+                <Item Amount="0.5" TypeId="Ingot" SubtypeId="Silicon" />
+                <Item Amount="1.25" TypeId="Ingot" SubtypeId="Cobalt" />
+                <Item Amount="3" TypeId="Ingot" SubtypeId="Magnesium" />
+            </Prerequisites>
+            <Result Amount="1" TypeId="AmmoMagazine" SubtypeId="KJN_KWP_BMB_an_m57A1_250lb_magazine" />
+            <BaseProductionTimeInSeconds>15</BaseProductionTimeInSeconds>
+        </Blueprint>
+
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>KJN_KWP_BMB_an_m64A1_500lb_magazine</SubtypeId>
+            </Id>
+            <DisplayName>KWP AN-M64A1 500 lb G.P. Bomb</DisplayName>
+            <Icon>Textures\GUI\Icons\Cubes\KJN_KWP_BMB_an_m64A1_500lb_ammo.dds</Icon>
+            <Prerequisites>
+                <Item Amount="275" TypeId="Ingot" SubtypeId="Iron" />
+                <Item Amount="35" TypeId="Ingot" SubtypeId="Nickel" />
+                <Item Amount="1" TypeId="Ingot" SubtypeId="Silicon" />
+                <Item Amount="2.5" TypeId="Ingot" SubtypeId="Cobalt" />
+                <Item Amount="6" TypeId="Ingot" SubtypeId="Magnesium" />
+            </Prerequisites>
+            <Result Amount="1" TypeId="AmmoMagazine" SubtypeId="KJN_KWP_BMB_an_m64A1_500lb_magazine" />
+            <BaseProductionTimeInSeconds>20</BaseProductionTimeInSeconds>
+        </Blueprint>
+
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>KJN_KWP_BMB_an_m65A1_1000lb_magazine</SubtypeId>
+            </Id>
+            <DisplayName>KWP AN-M65A1 1000 lb G.P. Bomb</DisplayName>
+            <Icon>Textures\GUI\Icons\Cubes\KJN_KWP_BMB_an_m65A1_1000lb_ammo.dds</Icon>
+            <Prerequisites>
+                <Item Amount="550" TypeId="Ingot" SubtypeId="Iron" />
+                <Item Amount="70" TypeId="Ingot" SubtypeId="Nickel" />
+                <Item Amount="2" TypeId="Ingot" SubtypeId="Silicon" />
+                <Item Amount="5" TypeId="Ingot" SubtypeId="Cobalt" />
+                <Item Amount="12" TypeId="Ingot" SubtypeId="Magnesium" />
+            </Prerequisites>
+            <Result Amount="1" TypeId="AmmoMagazine" SubtypeId="KJN_KWP_BMB_an_m65A1_1000lb_magazine" />
+            <BaseProductionTimeInSeconds>25</BaseProductionTimeInSeconds>
+        </Blueprint>
+
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>KJN_KWP_BMB_an_m66A1_2000lb_magazine</SubtypeId>
+            </Id>
+            <DisplayName>KWP AN-M66A1 2000 lb G.P. Bomb</DisplayName>
+            <Icon>Textures\GUI\Icons\Cubes\KJN_KWP_BMB_an_m66A1_2000lb_ammo.dds</Icon>
+            <Prerequisites>
+                <Item Amount="1100" TypeId="Ingot" SubtypeId="Iron" />
+                <Item Amount="140" TypeId="Ingot" SubtypeId="Nickel" />
+                <Item Amount="4" TypeId="Ingot" SubtypeId="Silicon" />
+                <Item Amount="10" TypeId="Ingot" SubtypeId="Cobalt" />
+                <Item Amount="24" TypeId="Ingot" SubtypeId="Magnesium" />
+            </Prerequisites>
+            <Result Amount="1" TypeId="AmmoMagazine" SubtypeId="KJN_KWP_BMB_an_m66A1_2000lb_magazine" />
+            <BaseProductionTimeInSeconds>30</BaseProductionTimeInSeconds>
+        </Blueprint>
+
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>KJN_KWP_BMB_pc1000_1000kg_magazine</SubtypeId>
+            </Id>
+            <DisplayName>KWP PC1000 1000 kg A.P. Bomb</DisplayName>
+            <Icon>Textures\GUI\Icons\Cubes\KJN_KWP_BMB_pc1000_1000kg_ammo.dds</Icon>
+            <Prerequisites>
+                <Item Amount="1400" TypeId="Ingot" SubtypeId="Iron" />
+                <Item Amount="140" TypeId="Ingot" SubtypeId="Nickel" />
+                <Item Amount="4" TypeId="Ingot" SubtypeId="Silicon" />
+                <Item Amount="10" TypeId="Ingot" SubtypeId="Cobalt" />
+                <Item Amount="10" TypeId="Ingot" SubtypeId="Magnesium" />
+            </Prerequisites>
+            <Result Amount="1" TypeId="AmmoMagazine" SubtypeId="KJN_KWP_BMB_pc1000_1000kg_magazine" />
+            <BaseProductionTimeInSeconds>30</BaseProductionTimeInSeconds>
+        </Blueprint>
+
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>KJN_KWP_BMB_pc1600_1600kg_magazine</SubtypeId>
+            </Id>
+            <DisplayName>KWP PC1600 1600 kg A.P. Bomb</DisplayName>
+            <Icon>Textures\GUI\Icons\Cubes\KJN_KWP_BMB_pc1600_1600kg_ammo.dds</Icon>
+            <Prerequisites>
+                <Item Amount="1600" TypeId="Ingot" SubtypeId="Iron" />
+                <Item Amount="140" TypeId="Ingot" SubtypeId="Nickel" />
+                <Item Amount="4" TypeId="Ingot" SubtypeId="Silicon" />
+                <Item Amount="10" TypeId="Ingot" SubtypeId="Cobalt" />
+                <Item Amount="16" TypeId="Ingot" SubtypeId="Magnesium" />
+            </Prerequisites>
+            <Result Amount="1" TypeId="AmmoMagazine" SubtypeId="KJN_KWP_BMB_pc1600_1600kg_magazine" />
+            <BaseProductionTimeInSeconds>30</BaseProductionTimeInSeconds>
+        </Blueprint>
+
+    </Blueprints>
+</Definitions>

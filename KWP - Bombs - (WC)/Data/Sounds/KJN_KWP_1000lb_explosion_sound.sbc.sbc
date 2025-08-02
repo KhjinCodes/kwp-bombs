@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Sounds>
+
+        <Sound>
+            <Id>
+                <TypeId>MyObjectBuilder_AudioDefinition</TypeId>
+                <SubtypeId>KJN_KWP_1000lb_ExplosionSound</SubtypeId>
+            </Id>
+            <Category>WEP_EXPL</Category>
+            <MaxDistance>1000</MaxDistance>
+            <PreventSynchronization>5</PreventSynchronization>
+            <DistantSounds>
+                <DistantSound Distance="250" Sound="KJN_KWP_1000lb_ExplosionSoundDistA" />
+                <DistantSound Distance="600" Sound="KJN_KWP_1000lb_ExplosionSoundDistB" />
+            </DistantSounds>
+            <DynamicMusicCategory>HeavyFight</DynamicMusicCategory>
+            <DynamicMusicAmount>25</DynamicMusicAmount>
+            <Volume>5.0</Volume>
+            <VolumeVariation>0.1</VolumeVariation>
+            <Waves>
+                <Wave Type="D3">
+                    <Start>Audio\KJN_KWP_1000lb_ExplosionDist1.wav</Start>
+                </Wave>
+            </Waves>
+        </Sound>
+
+        <Sound>
+            <Id>
+                <TypeId>MyObjectBuilder_AudioDefinition</TypeId>
+                <SubtypeId>KJN_KWP_1000lb_ExplosionSoundDistA</SubtypeId>
+            </Id>
+            <Category>WEP_EXPL</Category>
+            <MaxDistance>1000</MaxDistance>
+            <PreventSynchronization>5</PreventSynchronization>
+            <Volume>3.5</Volume>
+            <Waves>
+                <Wave Type="D3">
+                    <Start>Audio\KJN_KWP_1000lb_ExplosionDist2.wav</Start>
+                </Wave>
+            </Waves>
+        </Sound>
+
+        <Sound>
+            <Id>
+                <TypeId>MyObjectBuilder_AudioDefinition</TypeId>
+                <SubtypeId>KJN_KWP_1000lb_ExplosionSoundDistB</SubtypeId>
+            </Id>
+            <Category>WEP_EXPL</Category>
+            <MaxDistance>1000</MaxDistance>
+            <PreventSynchronization>5</PreventSynchronization>
+            <Volume>6.5</Volume>
+            <Waves>
+                <Wave Type="D3">
+                    <Start>Audio\KJN_KWP_1000lb_ExplosionDist3.wav</Start>
+                </Wave>
+            </Waves>
+        </Sound>
+
+    </Sounds>
+</Definitions>

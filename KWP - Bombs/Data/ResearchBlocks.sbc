@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ResearchBlocks>
+
+        <!-- Bombs -->
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_SmallMissileLauncher" Subtype="KJN_KWP_BMB_an_m30A1_100lb_block" />
+            <UnlockedByGroups>
+                <GroupSubtype>16</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_SmallMissileLauncher" Subtype="KJN_KWP_BMB_an_m57A1_250lb_block" />
+            <UnlockedByGroups>
+                <GroupSubtype>16</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_SmallMissileLauncher" Subtype="KJN_KWP_BMB_an_m64A1_500lb_block" />
+            <UnlockedByGroups>
+                <GroupSubtype>16</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_SmallMissileLauncher" Subtype="KJN_KWP_BMB_an_m65A1_1000lb_block" />
+            <UnlockedByGroups>
+                <GroupSubtype>16</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_SmallMissileLauncher" Subtype="KJN_KWP_BMB_an_m66A1_2000lb_block" />
+            <UnlockedByGroups>
+                <GroupSubtype>16</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_SmallMissileLauncher" Subtype="CubeBlocks_KJN_KWP_BMB_pc1000_1000kg_block" />
+            <UnlockedByGroups>
+                <GroupSubtype>16</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+
+        <ResearchBlock xsi:type="ResearchBlock">
+            <Id Type="MyObjectBuilder_SmallMissileLauncher" Subtype="CubeBlocks_KJN_KWP_BMB_pc1600_1600kg_block" />
+            <UnlockedByGroups>
+                <GroupSubtype>16</GroupSubtype>
+            </UnlockedByGroups>
+        </ResearchBlock>
+
+    </ResearchBlocks>
+</Definitions>

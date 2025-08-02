@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <BlockVariantGroups>
+
+		<BlockVariantGroup>
+            <Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="KJN_KWP_BMB_US" />
+			<Icon>Textures\GUI\Icons\Cubes\KJN_KWP_BMB_an_m30A1_100lb_block.dds</Icon>
+            <DisplayName>US Bombs</DisplayName>
+            <Description>US Bombs</Description>
+            <Blocks>
+
+				<Block Type="MyObjectBuilder_SmallMissileLauncher" Subtype="KJN_KWP_BMB_an_m30A1_100lb_block" />
+				<Block Type="MyObjectBuilder_SmallMissileLauncher" Subtype="KJN_KWP_BMB_an_m57A1_250lb_block" />
+				<Block Type="MyObjectBuilder_SmallMissileLauncher" Subtype="KJN_KWP_BMB_an_m64A1_500lb_block" />
+				<Block Type="MyObjectBuilder_SmallMissileLauncher" Subtype="KJN_KWP_BMB_an_m65A1_1000lb_block" />
+				<Block Type="MyObjectBuilder_SmallMissileLauncher" Subtype="KJN_KWP_BMB_an_m66A1_2000lb_block" />
+
+            </Blocks>
+        </BlockVariantGroup>
+
+		<BlockVariantGroup>
+            <Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="KJN_KWP_BMB_DE" />
+			<Icon>Textures\GUI\Icons\Cubes\KJN_KWP_BMB_pc1000_1000kg_block.dds</Icon>
+            <DisplayName>DE Bombs</DisplayName>
+            <Description>DE Bombs</Description>
+            <Blocks>
+
+				<Block Type="MyObjectBuilder_SmallMissileLauncher" Subtype="KJN_KWP_BMB_pc1000_1000kg_block" />
+				<Block Type="MyObjectBuilder_SmallMissileLauncher" Subtype="KJN_KWP_BMB_pc1600_1600kg_block" />
+
+            </Blocks>
+        </BlockVariantGroup>
+
+    </BlockVariantGroups>
+</Definitions>

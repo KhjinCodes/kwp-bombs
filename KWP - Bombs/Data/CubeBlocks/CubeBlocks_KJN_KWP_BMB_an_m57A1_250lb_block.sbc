@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<CubeBlocks>
+		<Definition xsi:type="MyObjectBuilder_WeaponBlockDefinition">
+			<Id>
+				<TypeId>SmallMissileLauncher</TypeId>
+				<SubtypeId>KJN_KWP_BMB_an_m57A1_250lb_block</SubtypeId>
+			</Id>
+			<DisplayName>AN-M57A1 250 lb G.P. Bomb Mount</DisplayName>
+			<Description>The AN-M57A1 (250 lb) is an American general-purpose high explosive (HE) bomb.
+			
+			Ammo: KWP AN-M57A1 250 lb G.P. Bomb</Description>
+			<Icon>Textures\GUI\Icons\Cubes\KJN_KWP_BMB_an_m57A1_250lb_block.dds</Icon>
+			<CubeSize>Small</CubeSize>
+			<GuiVisible>false</GuiVisible>
+			<BlockTopology>TriangleMesh</BlockTopology>
+			<Size x="1" y="1" z="2"/>
+			<ModelOffset x="0" y="0" z="0"/>
+			<Model>Models\Cubes\small\KJN_KWP_BMB_an_m57A1_250lb_block.mwm</Model>
+			<Components>
+				<Component Subtype="SteelPlate" Count="1" />
+				<Component Subtype="Construction" Count="2" />
+				<Component Subtype="MetalGrid" Count="1" />
+				<Component Subtype="LargeTube" Count="4" />
+				<Component Subtype="Motor" Count="1" />
+				<Component Subtype="Construction" Count="2" />
+				<Component Subtype="SteelPlate" Count="3" />
+			</Components>
+			<CriticalComponent Subtype="Motor" Index="0" />
+			<MountPoints>
+				<MountPoint Side="Top" StartX="0.00" StartY="0.00" EndX="1.00" EndY="2.00"/>
+			</MountPoints>
+			<BuildProgressModels>
+				<Model BuildPercentUpperBound="0.50" File="Models\Cubes\small\KJN_KWP_BMB_an_m57A1_250lb_block.mwm" />
+				<Model BuildPercentUpperBound="1.00" File="Models\Cubes\small\KJN_KWP_BMB_an_m57A1_250lb_block.mwm" />
+			</BuildProgressModels>
+			<BlockPairName>KJN_KWP_BMB_an_m57A1_250lb_block</BlockPairName>
+			<MirroringY>Z</MirroringY>
+			<MirroringZ>Y</MirroringZ>
+			<Center x="0" y="0" z="1" />
+			<BuildTimeSeconds>15</BuildTimeSeconds>
+			<EdgeType>Light</EdgeType>
+			<WeaponDefinitionId Subtype="KJN_KWP_BMB_an_m57A1_250lb_block" />
+			<ResourceSinkGroup>Defense</ResourceSinkGroup>
+			<InventoryMaxVolume>0.057</InventoryMaxVolume>
+			<DamageEffectName>Damage_WeapExpl_Damaged</DamageEffectName>
+			<DamagedSound>ParticleWeapExpl</DamagedSound>
+			<DestroyEffect>BlockDestroyedExplosion_Small</DestroyEffect>
+			<DestroySound>WepSmallWarheadExpl</DestroySound>
+			<PCU>425</PCU>
+			<TargetingGroups>
+				<string>Weapons</string>
+			</TargetingGroups>
+			<IsAirTight>false</IsAirTight>
+		</Definition>
+	</CubeBlocks>
+</Definitions>
