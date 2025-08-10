@@ -9,12 +9,14 @@
             <Description>US Bombs</Description>
             <Blocks>
 
-				<Block Type="MyObjectBuilder_SmallMissileLauncher" Subtype="KJN_KWP_BMB_an_m30A1_100lb_block" />
-				<Block Type="MyObjectBuilder_SmallMissileLauncher" Subtype="KJN_KWP_BMB_an_m57A1_250lb_block" />
-				<Block Type="MyObjectBuilder_SmallMissileLauncher" Subtype="KJN_KWP_BMB_an_m64A1_500lb_block" />
-				<Block Type="MyObjectBuilder_SmallMissileLauncher" Subtype="KJN_KWP_BMB_an_m65A1_1000lb_block" />
-				<Block Type="MyObjectBuilder_SmallMissileLauncher" Subtype="KJN_KWP_BMB_an_m66A1_2000lb_block" />
-
+				      <Block Type="MyObjectBuilder_SmallMissileLauncher" Subtype="KJN_KWP_BMB_an_m30A1_100lb_block" />
+				      <Block Type="MyObjectBuilder_SmallMissileLauncher" Subtype="KJN_KWP_BMB_an_m57A1_250lb_block" />
+				      <Block Type="MyObjectBuilder_SmallMissileLauncher" Subtype="KJN_KWP_BMB_an_m64A1_500lb_block" />
+				      <Block Type="MyObjectBuilder_SmallMissileLauncher" Subtype="KJN_KWP_BMB_an_m65A1_1000lb_block" />
+				      <Block Type="MyObjectBuilder_SmallMissileLauncher" Subtype="KJN_KWP_BMB_an_m66A1_2000lb_block" />
+              <Block Type="MyObjectBuilder_SmallMissileLauncher" Subtype="KJN_KWP_BMB_an_m65A1_1000lb_4x_rack_block" />
+              <Block Type="MyObjectBuilder_SmallMissileLauncher" Subtype="KJN_KWP_BMB_an_m65A1_1000lb_4x_rack_mirrored" />
+              
             </Blocks>
         </BlockVariantGroup>
 

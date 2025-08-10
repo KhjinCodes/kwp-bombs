@@ -32,6 +32,20 @@
         </ResearchBlock>
 
         <ResearchBlock xsi:type="ResearchBlock">
+          <Id Type="MyObjectBuilder_SmallMissileLauncher" Subtype="KJN_KWP_BMB_an_m65A1_1000lb_4x_rack_block" />
+          <UnlockedByGroups>
+            <GroupSubtype>16</GroupSubtype>
+          </UnlockedByGroups>
+        </ResearchBlock>
+
+        <ResearchBlock xsi:type="ResearchBlock">
+          <Id Type="MyObjectBuilder_SmallMissileLauncher" Subtype="KJN_KWP_BMB_an_m65A1_1000lb_4x_rack_mirrored" />
+          <UnlockedByGroups>
+            <GroupSubtype>16</GroupSubtype>
+          </UnlockedByGroups>
+        </ResearchBlock>
+
+        <ResearchBlock xsi:type="ResearchBlock">
             <Id Type="MyObjectBuilder_SmallMissileLauncher" Subtype="KJN_KWP_BMB_an_m66A1_2000lb_block" />
             <UnlockedByGroups>
                 <GroupSubtype>16</GroupSubtype>

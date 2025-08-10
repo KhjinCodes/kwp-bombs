@@ -17,9 +17,11 @@
                 <string>SmallMissileLauncher/KJN_KWP_BMB_an_m57A1_250lb_block</string>
                 <string>SmallMissileLauncher/KJN_KWP_BMB_an_m64A1_500lb_block</string>
                 <string>SmallMissileLauncher/KJN_KWP_BMB_an_m65A1_1000lb_block</string>
+								<string>SmallMissileLauncher/KJN_KWP_BMB_an_m65A1_1000lb_4x_rack_block</string>
+								<string>SmallMissileLauncher/KJN_KWP_BMB_an_m65A1_1000lb_4x_rack_mirrored</string>
                 <string>SmallMissileLauncher/KJN_KWP_BMB_an_m66A1_2000lb_block</string>
-				<string>SmallMissileLauncher/KJN_KWP_BMB_pc1000_1000kg_block</string>
-				<string>SmallMissileLauncher/KJN_KWP_BMB_pc1600_1600kg_block</string>
+								<string>SmallMissileLauncher/KJN_KWP_BMB_pc1000_1000kg_block</string>
+								<string>SmallMissileLauncher/KJN_KWP_BMB_pc1600_1600kg_block</string>
 			
             </ItemIds>
 
@@ -40,9 +42,11 @@
                 <string>SmallMissileLauncher/KJN_KWP_BMB_an_m57A1_250lb_block</string>
                 <string>SmallMissileLauncher/KJN_KWP_BMB_an_m64A1_500lb_block</string>
                 <string>SmallMissileLauncher/KJN_KWP_BMB_an_m65A1_1000lb_block</string>
+								<string>SmallMissileLauncher/KJN_KWP_BMB_an_m65A1_1000lb_4x_rack_block</string>
+								<string>SmallMissileLauncher/KJN_KWP_BMB_an_m65A1_1000lb_4x_rack_mirrored</string>
                 <string>SmallMissileLauncher/KJN_KWP_BMB_an_m66A1_2000lb_block</string>
-				<string>SmallMissileLauncher/KJN_KWP_BMB_pc1000_1000kg_block</string>
-				<string>SmallMissileLauncher/KJN_KWP_BMB_pc1600_1600kg_block</string>
+								<string>SmallMissileLauncher/KJN_KWP_BMB_pc1000_1000kg_block</string>
+								<string>SmallMissileLauncher/KJN_KWP_BMB_pc1600_1600kg_block</string>
 			
             </ItemIds>
 
@@ -66,9 +70,11 @@
                 <string>KJN_KWP_BMB_an_m57A1_250lb_block</string>
                 <string>KJN_KWP_BMB_an_m64A1_500lb_block</string>
                 <string>KJN_KWP_BMB_an_m65A1_1000lb_block</string>
+								<string>KJN_KWP_BMB_an_m65A1_1000lb_4x_rack_block</string>
+								<string>KJN_KWP_BMB_an_m65A1_1000lb_4x_rack_mirrored</string>
                 <string>KJN_KWP_BMB_an_m66A1_2000lb_block</string>
-				<string>KJN_KWP_BMB_pc1000_1000kg_block</string>
-				<string>KJN_KWP_BMB_pc1600_1600kg_block</string>
+								<string>KJN_KWP_BMB_pc1000_1000kg_block</string>
+								<string>KJN_KWP_BMB_pc1600_1600kg_block</string>
 
 			</ItemIds>
 
